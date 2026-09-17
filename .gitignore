@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+.presentation-build/
+output/
+from-text-to-actions*
+slides-example*.pdf

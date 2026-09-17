@@ -1,0 +1,8 @@
+.env
+client_secret.json
+.venv/
+data/
+__pycache__/
+.pytest_cache/
+.sesskey
+chat.db*
